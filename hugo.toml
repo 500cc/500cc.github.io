@@ -1,0 +1,4 @@
+theme = 'nostyleplease'
+baseURL = 'https://example.org/'
+languageCode = 'ja-JP'
+title = '500mLのウェブサイト'
